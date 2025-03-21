@@ -1,0 +1,4 @@
+C:\Users\harle\source\repos\CoD Cheater Report\obj\Debug\CoD Cheater Report.csproj.AssemblyReference.cache
+C:\Users\harle\source\repos\CoD Cheater Report\obj\Debug\CoD_Cheater_Report.Properties.Resources.resources
+C:\Users\harle\source\repos\CoD Cheater Report\obj\Debug\CoD Cheater Report.csproj.GenerateResource.cache
+C:\Users\harle\source\repos\CoD Cheater Report\obj\Debug\CoD Cheater Report.csproj.CoreCompileInputs.cache
